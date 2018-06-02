@@ -65,7 +65,7 @@ function cargarNoticias() {
 
         var nombre = ficheros[cont];
         cont++;
-        $.getJSON( "https://rawgit.com/collami/programacion2/master/data/" + nombre, function (aux) {
+        $.getJSON( "https://github.com/collami/scsdsfds/blob/master/data/" + nombre, function (aux) {
             agregar(aux); });
     }
     else {
