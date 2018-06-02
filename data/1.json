@@ -1,0 +1,28 @@
+﻿
+[
+		 {
+			"titulo": "ARTE CON DRONES",
+			"descripcion": "Los drones también sirven para crear arte y para formar parte del espectáculo. Los enjambres de drones sincronizados con la música y las luces se han convertido en los nuevos piromusicales ...",
+			"imgmid": "",
+			"imgbig": "img/noticias/imgbig/dron-arte.png",
+			"data": "07/05/2018"
+		},
+		
+		 {
+			"titulo": "PARA QUÉ SIRVE EL DRON AUTÓNOMO MÁS PEQUEÑO DEL MUNDO",
+			"descripcion": "El nano dron autónomo más pequeño del mundo ha sido desarrollado en un trabajo conjunto por la Escuela Politécnica Federal ...",
+			"imgmid": "",
+			"imgbig": "img/noticias/imgbig/dron-mas-pequeno-mundo.png",
+			"data": "06/05/2018"
+		},
+		
+		 {
+			"titulo": "EL NÚMERO DE OPERADORES DE DRONES REGISTRADOS EN ESPAÑA SUBE UN 43%",
+			"descripcion": "En el último año, desde abril de 2017 hasta ahora, el número de operadores de drones en España ha aumentado ...",
+			"imgmid": "",
+			"imgbig": "img/noticias/imgbig/operadores-aesa-registro.jpg",
+			"data": "04/05/2018"
+		}
+
+
+]

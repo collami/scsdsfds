@@ -1,0 +1,27 @@
+[
+		 {
+			"titulo": "ESTE MAPA TE DICE DÓNDE PUEDES VOLAR TUS DRONES EN ESPAÑA",
+			"descripcion": "El gestor de navegación aérea en España Enaire ha desarrollado un mapa interactivo que define las zonas seguras para volar ...",
+			"imgmid": "",
+			"imgbig": "img/noticias/imgbig/mapa-volar-drones-espana.jpg",
+			"data": "27/04/2018"
+		},
+		
+		 {
+			"titulo": "VODAFONE PROPONE UN SISTEMA DE CONTROL DE TRÁFICO DE DRONES",
+			"descripcion": "La operadora Vodafone ha desarrollado un sistema para controlar el tráfico de drones a partir de su red 4G. Este ...",
+			"imgmid": "",
+			"imgbig": "img/noticias/imgbig/vodafone-control-trafico-drones.jpg",
+			"data": "24/04/2018"
+		},
+		
+		 {
+			"titulo": "AIRBUS PRUEBA POR PRIMERA VEZ SU TAXI-DRON",
+			"descripcion": "La compañía aeronáutica Airbus ha llevado a cabo un hito dentro de la propia empresa. Por primera vez, el fabricante ...",
+			"imgmid": "",
+			"imgbig": "img/noticias/imgbig/airbus-taxi.jpeg",
+			"data": "18/04/2018"
+		}
+
+
+]

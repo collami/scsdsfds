@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>Noticias sobre Drones</title>
+<link>https://rawgit.com/arsg93/Noticias/master/news.html</link>
+<description>Últimas noticias y novedades sobre el mundo de los Drones</description>
+<item>
+<title>ESTA TECNOLOGÍA PERMITE QUE UN DRON EVITE OBSTÁCULOS EN INTERIORES</title>
+<link>https://rawgit.com/arsg93/Noticias/master/news1.html</link>
+<description>Sin GPS una aeronave no tripulada está perdida. Y más cuando hablamos de evitar obstáculos. Pero esta situación
+                no es ...</description>
+<img>
+    <imgmid></imgmid>
+    <imgbig>../img/noticias/imgbig/terabee.jpg</imgbig>
+</img>
+<pubDate>15/05/2018</pubDate>
+</item>
+<item>
+<title>ESTE EQUIPO DE RPAS PUEDE SEMBRAR 100.000 SEMILLAS EN UN DÍA</title>
+<link>https://rawgit.com/arsg93/Noticias/master/news1.html</link>
+<description>La empresa británica BioCarbon Engineering ha desarrollado un novedoso sistema basado en el uso de drones para
+                replantar árboles en ...</description>
+<img>
+    <imgmid></imgmid>
+    <imgbig>../img/noticias/imgbig/biocarbon-engineering.jpg</imgbig>
+</img>
+<pubDate>06/05/2018</pubDate>
+</item>
+<item>
+<title>UN DRON DE INSPIRACIÓN ORIGAMI PARA AYUDAR EN EMERGENCIA POR DESASTRES</title>
+<link>https://rawgit.com/arsg93/Noticias/master/news1.html</link>
+<description>Un equipo de investigadores de la Escuela Politécnica Federal de Lausanne, en Suiza, ha creado una aeronave no
+                tripulada capaz ...</description>
+<img>
+    <imgmid></imgmid>
+    <imgbig>../img/noticias/imgbig/dron-origami.jpg</imgbig>
+</img>
+<pubDate>27/04/2018</pubDate>
+</item>
+</channel>
+
+</rss>
